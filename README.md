@@ -9,3 +9,6 @@ We hope to answer the question of what goes into the over/under totals that are 
 Begin with NFC South win/lose records and try to predict how many games will be won this year
 Create CSV of NFC South teams using wins, did coach return, did staff return, qb rating, offensive rating, defensive rating, sell out rate
 Put above data into data set and attempt to get projected wins for this upcoming football season.
+
+https://www.espn.com/nfl/stats
+http://www.espn.com/nfl/attendance
