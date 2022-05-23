@@ -1,14 +1,7 @@
 # final_project
 ## Selected topic and reasoning
-We chose the topic of football win totals based on previous season hisotrical data. We chose this to see if we could use a machine learning model that is close to the predicted win O/U win totals presented by Vegas casinos before the start of the regular NFL season.
+We chose the topic of football win totals based on previous season hisotrical data. We chose this to see if we could use multiple linear regression analysis that is close to the predicted win O/U win totals presented by Vegas casinos before the start of the regular NFL season.
 ## Source
-We will be collecting historical team data as well as betting data from the previous season and uploading into an excel file and creating SQL database tables. in these tables will be based on the roster overturn, headcoach return, offensive ranking, QB passer rating, assistant coaches retained, etc.
+We will be collecting historical team data as well as betting data from the previous season and uploading into an excel file and creating SQL database tables. in these tables will be based on the previous season win totals, headcoach return, total offensive ranking, total defensive ranking, Team QBR rating, OC remains, and DC remains
 ## Questions we hope to answer
 We hope to answer the question of what goes into the over/under totals that are given to teams. We want to know what the most important factor on if a team can be good or if a bad over under total can spark a team to a better record then was projected. and most importantly do these metrics lead to a team being over the projected total.
-## Possible Data Sources
-Begin with NFC South win/lose records and try to predict how many games will be won this year
-Create CSV of NFC South teams using wins, did coach return, did staff return, qb rating, offensive rating, defensive rating, sell out rate
-Put above data into data set and attempt to get projected wins for this upcoming football season.
-
-https://www.espn.com/nfl/stats
-http://www.espn.com/nfl/attendance
