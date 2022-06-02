@@ -1,0 +1,33 @@
+team_id,team_name,wins_2021,losses_2021,win_pct_2021,wins_2020,losses_2020,win_pct_2020,wins_2019,losses_2019,win_pct_2019
+NFC001,Arizona Cardinals,11,6,0.647,8,8,0.5,5,10,0.344
+NFC002,Atlanta Falcons,7,10,0.412,4,12,0.25,7,9,0.438
+NFC003,Carolina Panthers,5,12,0.294,5,11,0.313,5,11,0.313
+NFC004,Chicago Bears,6,11,0.353,8,8,0.5,8,8,0.5
+NFC005,Dallas Cowboys,12,5,0.706,6,10,0.375,8,8,0.5
+NFC006,Detroit Lions,3,13,0.206,5,11,0.313,3,12,0.219
+NFC007,Green Bay Packers,13,4,0.765,13,3,0.813,13,3,0.813
+NFC008,Los Angeles Rams,12,5,0.706,10,6,0.625,9,7,0.563
+NFC009,Minnesota Vikings,8,9,0.471,7,9,0.438,10,6,0.625
+NFC010,New Orleans Saints,9,8,0.529,12,4,0.75,13,3,0.813
+NFC011,New York Giants,4,13,0.235,6,10,0.375,4,12,0.25
+NFC012,Philadelphia Eagles,9,8,0.529,4,11,0.281,9,7,0.563
+NFC013,San Francisco 49ers,10,7,0.588,6,10,0.375,13,3,0.813
+NFC014,Seattle Seahawks,7,10,0.412,12,4,0.75,11,5,0.688
+NFC015,Tampa Bay Buccaneers,13,4,0.765,11,5,0.688,7,9,0.438
+NFC016,Washington Football Team,7,10,0.412,7,9,0.438,3,13,0.188
+AFC001,Baltimore Ravens,8,9,0.471,11,5,0.688,14,2,0.875
+AFC002,Buffalo Bills*,11,6,0.647,13,3,0.813,10,6,0.625
+AFC003,Cincinnati Bengals,10,7,0.588,4,11,0.281,2,14,0.125
+AFC004,Cleveland Browns,8,9,0.471,11,5,0.688,6,10,0.375
+AFC005,Denver Broncos,7,10,0.412,5,11,0.313,7,9,0.438
+AFC006,Houston Texans,4,13,0.235,4,12,0.25,10,6,0.625
+AFC007,Indianapolis Colts,9,8,0.529,11,5,0.688,7,9,0.438
+AFC008,Jacksonville Jaguars,3,14,0.176,1,15,0.063,6,10,0.375
+AFC009,Kansas City Chiefs,12,5,0.706,14,2,0.875,12,4,0.75
+AFC010,Las Vegas Raiders,10,7,0.588,8,8,0.5,5,11,0.313
+AFC016,Los Angeles Chargers,9,8,0.529,7,9,0.438,5,11,0.313
+AFC011,Miami Dolphins,9,8,0.529,10,6,0.625,12,4,0.75
+AFC012,New England Patriots,10,7,0.588,7,9,0.438,7,9,0.438
+AFC013,New York Jets,4,13,0.235,2,14,0.125,7,9,0.438
+AFC014,Pittsburgh Steelers,9,7,0.559,12,4,0.75,8,8,0.5
+AFC015,Tennessee Titans,12,5,0.706,11,5,0.688,9,7,0.563
