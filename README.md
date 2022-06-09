@@ -29,3 +29,5 @@ Atlanta (1) predicted is 5.97 and Vegas O/U is 5 only changing QB
 New Orleans(22) was 11.3, over under in Vegas is 7.5 but they had a change in coach and QB. 
 
 Tampa Bay(29) predicted 10.16, 11.5 from Vegas with a Head Coach change.
+## Tableu of Data
+https://public.tableau.com/app/profile/matthew.rickle/viz/NFLWinsPredictor/Dashboard1?publish=yes
